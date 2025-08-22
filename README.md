@@ -2,7 +2,8 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Tareq Al-Omari</h1>
+<h1 align="center">Hi 👋,
+  I'm Tareq Al-Omari</h1>
 <h3 align="center">A passionate Computer Science student and aspiring Software Developer from Yemen 🇾🇪</h3>
 
 ---
