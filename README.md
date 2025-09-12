@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 I'm a Computer Science & IT student passionate about software development, data analysis, and AI.
-- 🌱 Currently learning: `Flutter`, `Dart`, `Advanced Java`, `Backend Development`, and `AI with HuggingFace 🤗`.
+- 🌱 Currently learning: `Flutter`, `Dart`, `Django Python`, `Backend Development`, and `AI & OCR with HuggingFace 🤗`.
 - 💡 I love solving real-world problems through code and creating systems that help others.
 - 👨‍🏫 Founder of **"فكر برمجي"** – a coding group for teaching and solving programming challenges.
 - ⚙️ I enjoy building desktop apps, web platforms, and intelligent systems for social good.
