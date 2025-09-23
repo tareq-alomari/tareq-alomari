@@ -77,9 +77,7 @@
 
 ### 🧠 Projects & Achievements
 - 🔸 **IBB Marketing**: Full-featured eCommerce platform (1st place winner).
-- 🔸 **Smart Glasses for the Blind**: Combines navigation, object detection, and text reading.
-- 🔸 **Accounting Management System**: Built with C++ (OOP & file handling).
-- 🔸 **Quranic Circle App**: App for managing and tracking Quran reading.
+- 🔸 **Accounting Management System**: Built with APP & Website By Softeware Engineering ways (4D).
 - 🔸 **Fikr Barmji**: Educational group for solving code problems together.
 
 ---
