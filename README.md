@@ -39,7 +39,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" width="40" height="40" />
 
   <!-- Web & App Dev -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
@@ -64,12 +63,10 @@
 
   <!-- AI, ML, Data -->
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Google_Colaboratory_Logo.svg/768px-Google_Colaboratory_Logo.svg.png" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="40" height="40"/>
 
   <!-- Project Tools -->
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/353498/xampp.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
 </p>
 
