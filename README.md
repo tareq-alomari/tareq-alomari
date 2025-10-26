@@ -20,7 +20,7 @@
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="mailto:youremail@example.com" target="blank">
+  <a href="mailto:tareq.software.dovloper@gamil.com" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" />
   </a>
   <a href="https://wa.me/967715299909" target="blank">
