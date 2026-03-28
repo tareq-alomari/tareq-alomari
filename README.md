@@ -1,86 +1,88 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0096FF&height=200&section=header&text=Tareq%20Al-Omari&fontSize=70&animation=fadeIn&fontAlignY=38" />
 
-<h1 align="center">Hi ,
-  I'm Tareq Al-Omari</h1>
-<h3 align="center">A passionate Computer Science student and aspiring Software Developer from Yemen 🇾🇪</h3>
+  ### 🚀 Software Engineer | Full-Stack Developer | AI Enthusiast
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0096FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Django+Developer;AI+%26+NLP+Specialist;Founder+of+Fikr+Barmji)](https://git.io/typing-svg)
+
+  <p align="center">
+    <a href="https://github.com/tareq-alomari">
+      <img src="https://img.shields.io/github/followers/tareq-alomari?label=Follow&style=social"  alt="GitHub followers">
+    </a>
+  </p>
+</div>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 I'm a Computer Science & IT student passionate about software development, data analysis, and AI.
-- 🌱 Currently learning: `Flutter`, `React`, `Django Python`, `Backend Development`, and `AI & OCR with HuggingFace 🤗`.
-- Software Engineering principles & Analysis and design systems.
-- 💡 I love solving real-world problems through code and creating systems that help others.
-- 👨‍🏫 Founder of **"فكر برمجي"** – a coding group for teaching and solving programming challenges.
-- ⚙️ I enjoy building desktop apps, web platforms, and intelligent systems for social good.
+
+أنا **طارق العمري**، طالب في السنة الرابعة تكنولوجيا معلومات بجامعة إب، ومطور برمجيات شغوف ببناء أنظمة ذكية تحل مشاكل واقعية.
+
+- 🔭 **أعمل حالياً على:** مشروع التخرج **Okaz-NLP** ومشروع **Your Smart Shopping Agent** مع فريق DemoSoft.
+- 🌱 **أتعمق في:** تطوير أنظمة الـ ERP، وأتمتة العمليات باستخدام Python و Django.
+- ⚡ **حقيقة ممتعة:** قمت بتطوير لغة برمجة عربية خاصة كجزء من دراستي للمترجمات (Compilers).
+- 👨‍🏫 **مبادرة:** مؤسس مجموعة **"فكر برمجي"** لنشر المعرفة البرمجية.
 
 ---
 
-### 📫 Connect with me
-<p align="left">
-  <a href="mailto:tareq.software.dovloper@gamil.com" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" />
+### 🛠️ Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Web Dev** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **AI & Data** | ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=tareq-alomari&show_icons=true&theme=tokyonight&count_private=true" width="400px" alt="Tareq's Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareq-alomari&layout=compact&theme=tokyonight&hide=html,css" width="300px" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareq-alomari&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏆 Key Projects
+
+- 🛒 **Your Smart Shopping Agent**: منصة تسويق ذكية للمتاجر المحلية (DemoSoft).
+- 📝 **Arabic Compiler**: بناء مترجم للغة برمجة عربية من الصفر.
+- 🔐 **Crypto-Toolkit**: تطبيق لسطح المكتب يجمع خوارزميات التشفير المختلفة.
+- 🏢 **Real Estate System**: نظام متكامل لإدارة العقارات باستخدام Django.
+
+---
+
+### 📫 Connect with Me
+
+<div align="left">
+  <a href="mailto:tareq.software.dovloper@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/967715299909" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" />
+  <a href="https://wa.me/967715299909">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
+  <a href="https://linkedin.com/in/tareq-alomari">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
----
+<br />
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-
-  <!-- Web & App Dev -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40"/>
-
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-
-  <!-- DevOps & Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40"/>
-
-  <!-- AI, ML, Data -->
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="40" height="40"/>
-
-  <!-- Project Tools -->
-  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
-</p>
-
----
-
-### 🧠 Projects & Achievements
-- 🔸 **IBB Marketing**: Full-featured eCommerce platform (1st place winner).
-- 🔸 **Accounting Management System**: Built with APP & Website By Softeware Engineering ways (4D).
-- 🔸 **Fikr Barmji**: Educational group for solving code problems together.
-
----
-
-### 📈 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tareq-alomari&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tareq-alomari&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
