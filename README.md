@@ -2,7 +2,7 @@
   <!-- Header with animated name -->
   <img src="https://capsule-render.vercel.app/render?type=waving&color=0096FF&height=200&section=header&text=Tareq%20Al-Omari&fontSize=70&animation=fadeIn&fontAlignY=38" />
 
-  ### 🚀 Software Engineer | Backend Developer | AI Enthusiast
+  ### 🚀 Software Engineer | Backend Developer 
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0096FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Django+Developer;AI+%26+NLP+Specialist;Founder+of+Fikr+Barmji)](https://git.io/typing-svg)
 
@@ -19,7 +19,7 @@
 
 أنا **طارق العمري**، طالب علوم حاسوب ومطور برمجيات شغوف ببناء أنظمة ذكية تحل مشاكل واقعية.
 
-- 🔭 **أعمل حالياً على:** مشاريع **Okaz-NLP** و **Your Smart Shopping Agent** مع فريق DemoSoft.  
+- 🔭 **أعمل حالياً على:** مشاريع  **Your Smart Shopping Agent** مع فريق DemoSoft.  
 - 🌱 **أتعمق في:** تطوير أنظمة ERP، أتمتة العمليات، وتحليل البيانات باستخدام Python، Django، AI، وOCR.  
 - ⚡ **حقيقة ممتعة:** أنشأت لغة برمجة عربية خاصة (جزء من دراسة المترجمات Compilers).  
 - 👨‍🏫 **مبادرة:** مؤسس مجموعة **"فكر برمجي"** لنشر المعرفة وحل تحديات البرمجة.  
