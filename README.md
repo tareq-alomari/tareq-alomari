@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Header with animated name -->
 
-  ### 🚀 Software Engineer | Backend Developer 
+  ###  Software Engineer | Backend Developer 
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0096FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Web+Developer;SoftwareEngineering+Specialis;Founder+of+Fikr+Barmji)](https://git.io/typing-svg)
 
