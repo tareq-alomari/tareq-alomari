@@ -61,10 +61,6 @@
 
 ### 🏆 Key Projects
 
-- 🤖 **Okaz-NLP**: نظام ذكي لمعالجة النصوص العربية بتحليل الأخبار وتلخيصها تلقائيًا.  
-  - **Tech:** Python, Django, HuggingFace, PostgreSQL, React  
-  - **Features:** NLP Analysis, Summarization, Entity Tagging, Interactive Dashboard
-
 - 🛒 **Your Smart Shopping Agent**: منصة تسويق ذكية للمتاجر المحلية.  
   - **Tech:** Flutter, Django, AI Recommendation System  
   - **Features:** Personalized Shopping, Inventory Automation, User Dashboard
