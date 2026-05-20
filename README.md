@@ -1,6 +1,5 @@
 <div align="center">
   <!-- Header with animated name -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0096FF&height=200&section=header&text=Tareq%20Al-Omari&fontSize=70&animation=fadeIn&fontAlignY=38" />
 
   ### 🚀 Software Engineer | Backend Developer 
   
